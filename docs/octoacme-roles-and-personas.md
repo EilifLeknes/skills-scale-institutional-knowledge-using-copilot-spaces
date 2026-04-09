@@ -75,6 +75,28 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX Designer
+**Responsibilities:** Lead user research, conduct design sprints, deliver wireframes/mockups, ensure usability standards
+**Interactions:** Works with Product Managers on requirements, Developers on implementation feasibility, QA on acceptance criteria
+
+## Business Analyst
+**Responsibilities:** Gather and clarify requirements, document process flows, define acceptance criteria, analyze project impact
+**Interactions:** Liaison between stakeholders, Product Managers, and Developers; ensures business needs translate to technical solutions
+
+## QA Lead
+**Responsibilities:** Define testing strategy, coordinate test planning, ensure quality gates, lead bug triage
+**Interactions:** Collaborates with Developers on test integration, Project Managers on quality gates, supports end-to-end delivery
+
+## DevOps Engineer
+**Responsibilities:** Manage CI/CD pipelines, infrastructure automation, environment reliability, deployment orchestration
+**Interactions:** Partners with Developers for seamless deployments, coordinates with Project Managers on release timing
+
+## Stakeholder/Sponsor
+**Responsibilities:** Provide executive sponsorship, approve budgets, clarify strategic direction, unblock organizational constraints
+**Interactions:** Engages with Project Manager and Product Manager on major decisions, consulted on escalations
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
